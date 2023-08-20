@@ -54,6 +54,9 @@ body {
   opacity: 0.7;
   z-index: 10;
 }
+#greeting {
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.7);
+}
 #todo-form {
   position: absolute;
   top: 57%;
