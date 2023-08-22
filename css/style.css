@@ -225,12 +225,13 @@ input[id="check1"]:checked + label::after {
 
 .fa-sun {
   color: orange;
+  font-size: 1.5rem;
 }
 
 .fa-umbrella {
-  border-color: grey;
-  color: black;
+  font-size: 1.5rem;
 }
 .fa-snowflake {
   color: black;
+  font-size: 1.5rem;
 }
