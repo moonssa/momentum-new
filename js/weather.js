@@ -12,7 +12,7 @@ const displayWeatherStatus = (data) => {
     case "Clouds":
       icon.classList.add("fa-cloud");
       break;
-    case "Rains":
+    case "Rain":
       icon.classList.add("fa-umbrella");
       break;
     case "Snows":
